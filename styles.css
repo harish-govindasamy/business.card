@@ -9,7 +9,7 @@ body {
 }
 
 .card {
-    width: 700px;
+    width: 550px;
     margin: 0 auto;
     padding: 20px; 
     display:flex;
@@ -22,7 +22,7 @@ body {
 }
 
 .avatar {
-    width: 330px;
+    width: 190px;
     border: 4px solid #0092ff;
     border-radius: 15px;
 }
